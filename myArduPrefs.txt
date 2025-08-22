@@ -1,0 +1,14 @@
+﻿pt
+formato de recuo automático 1
+fechamento automático de inserção-} 0
+ponto e vírgula de inserção automática 0
+permitir sintaxe especializada 1
+aplicar limites matriz 1
+operadores lógicos de palavras-chave 0
+mostrar programa descarregando 1
+número da fonte tipo de letra 2
+número da fonte tamanho da letra 2
+multiplicador de tamanho da guia 2
+Número Placa de circuito 2
+Comprimento do buffer TWI 32
+Nome do IODevs arquivo ino_config.txt.txt

@@ -1,0 +1,14 @@
+﻿Botão de Pressão 1 ligado a pin 13 com valores D, M
+Interruptor Resistor 1 ligado a pin 0 com valor D
+Interruptor Resistor 2 ligado a pin 1 com valor D
+Interruptor Resistor 3 ligado a pin 2 com valor D
+Interruptor Resistor 4 ligado a pin 3 com valor D
+Interruptor Resistor 5 ligado a pin 4 com valor D
+Interruptor Resistor 6 ligado a pin 5 com valor D
+Interruptor Resistor 7 ligado a pin 6 com valor D
+Interruptor Resistor 8 ligado a pin 7 com valor D
+DEL colorido 1 ligado a pin 8 com valores D, R
+DEL colorido 2 ligado a pin 9 com valores D, R
+DEL colorido 3 ligado a pin 10 com valores D, R
+DEL colorido 4 ligado a pin 11 com valores D, R
+DEL colorido 5 ligado a pin 12 com valores D, B
