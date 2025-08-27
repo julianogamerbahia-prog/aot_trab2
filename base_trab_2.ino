@@ -48,7 +48,7 @@ int somaBit(int b1a, int b2a, int cBit)
 	int aux1, aux2 = 0;
 	// This 'if (1)' condition is always true, which makes
 	// bitResult always 1, ignoring the inputs.
-	if (1)
+	if ((b1a ^ b2a) ^ cBit)// The sum of three bits is 1 if there are an odd number of 1 bits.
 	{
 		bitResult = 1;
 	}
@@ -69,7 +69,7 @@ int somaCarryBit(int b1a, int b2a, int cBit)
 	int aux1, aux2 = 0;
 	// Just like the function above, this 'if (1)' condition is always true,
 	// which makes 'cBit' always 1.
-	if (1)
+	if ((b1a && b2a) || (b1a && cBit) || (b2a && cBit))// Two of the three input variables are 1. 
 	{
 		cBit = 1;
 	}
@@ -121,4 +121,5 @@ void loop()
 	// Writes the final carry to pin 12.
 	digitalWrite(12,carryBit);
 }
+
 
