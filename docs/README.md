@@ -1,28 +1,25 @@
 # aot_trab2
 
 
-# Somador de 4 Bits
+# 4-Bit Adder
+_What is this project?_
 
-_O que é este projeto?_
+This is a simple project made for the Analysis and Technical Guidance class at Senac NH. The idea is to show how to add two 4-bit binary numbers. We use a program to read the numbers and display the result on LEDs.
 
-Este é um projeto simples para a aula de Análise e Orientação de Técnicas do Senac NH. A ideia é mostrar como somar dois números binários de 4 bits. A gente usa um programa para ler os números e mostrar o resultado.
+# How the Code Works
+Pins: We set up the Arduino's pins to do two things: read the two numbers we input and light up the LEDs that show the result.
 
-# Como funciona o código?
-Pinos: A gente configura os pinos do Arduino para ler a entrada (os dois números) e para acender LEDs na saída (o resultado).
+The Sum: The program has two main functions. The first one sums each bit, and the second one handles the "carry over." This sum is repeated continuously.
 
-A Soma: O programa tem duas funções principais. Uma faz a soma dos bits e a outra cuida do "vai um". O programa fica repetindo essa soma o tempo todo.
+Result: The sum's result and the final "carry over" are displayed on the output LEDs.
 
-Resultado: O resultado da soma e o "vai um" final aparecem nos LEDs.
+# How to Use?
+It's very easy. Just follow these steps:
 
+Connect all the components to the Arduino.
 
-# Como usar?
-É bem fácil:
+Upload the code to the board.
 
-Ligue tudo no Arduino.
+Set the input numbers using the switches.
 
-Carregue o código.
-
-Coloque os números de entrada nas chaves.
-
-O resultado vai aparecer nos LEDs!
-
+The result of the sum will appear on the LEDs!
