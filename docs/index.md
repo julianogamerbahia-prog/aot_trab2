@@ -1,11 +1,11 @@
-## Bem-vindo ao Projeto de Somador Binário
+## Welcome to the Binary Adder Project
 
-# Documentação do projeto
+# Project Documentation
 
-*Este projeto foi desenvolvido para a disciplina de Análise e Orientação de Técnicas no Senac NH. Ele demonstra a construção de um somador binário de 4 bits, capaz de realizar operações de soma e gerenciar o "vai um" (carry bit) usando um microcontrolador.*
+*This project was developed for the subject of Analysis and Technical Guidance at Senac NH. It demonstrates the construction of a 4-bit binary adder, capable of performing addition operations and managing the "carry bit" using a microcontroller.*
 
-- [Visão geral](overview.md)
-- [Instalação](Installation.md)
-- [Uso](usuage.md)
+- [Overview](overview.md)
+- [Installation](Installation.md)
+- [Usage](usuage.md)
 - [README](README.md)
 - [LICENSE](LICENSE)
