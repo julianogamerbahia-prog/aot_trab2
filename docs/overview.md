@@ -7,3 +7,7 @@ O objetivo principal deste projeto é criar um somador digital simples que opera
 - PROCESSAR A SOMA
 
 - EXIBIR A SAÍDA.
+
+# UMA IMAGEM PARA TER UMA NOÇÃO:
+
+![IMAGEM NAO ENCONTRADA](https://github.com/julianogamerbahia-prog/aot_trab2/blob/juliano_becker/docs/images/padrao_placa.jpg "Imagem Placa")
