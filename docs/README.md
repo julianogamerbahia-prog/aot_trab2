@@ -25,3 +25,5 @@ Carregue o código.
 Coloque os números de entrada nas chaves.
 
 O resultado vai aparecer nos LEDs!
+
+![IMAGEM NAO ENCONTRADA](https://github.com/julianogamerbahia-prog/aot_trab2/blob/juliano_becker/docs/images/padrao_placa.jpg "Imagem Placa")
