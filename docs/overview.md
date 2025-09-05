@@ -1,12 +1,12 @@
-# Visão Geral do Somador Binário
+#Binary Adder Overview
 
-O objetivo principal deste projeto é criar um somador digital simples que opera com números de 4 bits (nibbles). Ele foi projetado para:
+The main objective of this project is to create a simple digital adder that operates with 4-bit numbers (nibbles). It is designed to:
 
-- RECEBER ENTRADAS
+- RECEIVE INPUTS
 
-- PROCESSAR A SOMA
+- PROCESS THE SUM
 
-- EXIBIR A SAÍDA.
+- DISPLAY THE OUTPUT
 
 # UMA IMAGEM PARA TER UMA NOÇÃO:
 
