@@ -1,19 +1,19 @@
-# Guia de Uso do Somador Binário
+# Binary Adder User Guide
 
-Depois de carregar o código na placa, siga estes passos para usar o somador:
+After uploading the code to the board, follow these steps to use the adder:
 
-1- Insira os números: Use as chaves ou botões conectados aos pinos de 0 a 7 para fornecer os dois números binários que deseja somar.
+1- Enter the numbers: Use the switches or buttons connected to pins 0 through 7 to provide the two binary numbers you want to add.
 
-- Primeiro número: bits conectados aos pinos 0 (bit menos significativo) a 3 (bit mais significativo).
+- First number: Bits connected to pins 0 (least significant bit) to 3 (most significant bit).
 
-- Segundo número: bits conectados aos pinos 4 (bit menos significativo) a 7 (bit mais significativo).
+- Second number: Bits connected to pins 4 (least significant bit) to 7 (most significant bit).
 
-______________________________________________________________
+______________________________________________________________________________
 
-Observe o resultado: 
+_Observe the result:_
 
-Os LEDs conectados aos pinos de 8 a 12 exibirão o resultado da soma.
+The LEDs connected to pins 8 through 12 will display the sum's result.
 
-Resultado da soma (4 bits): 
-LEDs conectados aos pinos 8 (bit menos significativo) a 11 (bit mais significativo).
-Bit de "vai um" final: LED conectado ao pino 12.
+Sum result (4 bits): LEDs connected to pins 8 (least significant bit) to 11 (most significant bit).
+
+Final carry-out bit: LED connected to pin 12.
