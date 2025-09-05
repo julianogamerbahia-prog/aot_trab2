@@ -1,36 +1,35 @@
-INSTALLATION:
+# Installation Instructions
 
-_Instruções de Instalação_
-Para rodar este projeto, você precisará de:
+To run this project, you will need:
 
-1- Hardware:
+1. Hardware:
+   
+- An Arduino microcontroller (or a compatible board).
 
-Um microcontrolador Arduino (ou uma placa compatível).
+- 8 switches or buttons for inputs (pins 0 to 7).
 
-8 chaves ou botões para as entradas (pins 0 a 7).
+- 5 LEDs for outputs (pins 8 to 12).
 
-5 LEDs para as saídas (pins 8 a 12).
+- Resistors.
 
-Resistores.
+- A breadboard and wires for connections.
 
-Uma protoboard e fios para as conexões.
+_____________________________________________________________________
 
-_______________________________________________________________
+2. Software:
+   
+- The Arduino IDE installed on your computer.
 
-2- Software:
+_____________________________________________________________________
 
-A IDE do Arduino está instalada no seu computador.
+Steps for Installation:
 
-_______________________________________________________________
+Connect the components to the breadboard according to the circuit diagram (available in the Images/ folder).
 
-Passos para Instalação:
+Open the source code (.ino) in the Arduino IDE.
 
-Conecte os componentes na protoboard conforme o diagrama de circuito (disponível na pasta Images/).
+Connect the Arduino board to your computer.
 
-Abra o código-fonte (.ino) na IDE do Arduino.
+Select the correct board and COM port from the "Tools" menu in the IDE.
 
-Conecte a placa Arduino ao computador.
-
-Selecione a placa e a porta COM corretas no menu "Ferramentas" da IDE.
-
-Clique em "Carregar" para transferir o código para o microcontrolador.
+Click "Upload" to transfer the code to the microcontroller.
