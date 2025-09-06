@@ -23,3 +23,5 @@ Upload the code to the board.
 Set the input numbers using the switches.
 
 The result of the sum will appear on the LEDs!
+
+![Imagem não encontrada](https://github.com/julianogamerbahia-prog/aot_trab2/blob/juliano_becker/docs/images/ima1.png)
