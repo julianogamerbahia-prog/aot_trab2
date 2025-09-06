@@ -9,4 +9,4 @@ The main objective of this project is to create a simple digital adder that oper
 - DISPLAY THE OUTPUT
 
 # A PICTURE TO GET AN IDEA:
-![IMAGEM NAO ENCONTRADA](https://github.com/julianogamerbahia-prog/aot_trab2/blob/juliano_becker/docs/images/padrao_placa.jpg "Imagem Placa")
+![IMAGEM NAO ENCONTRADA](https://github.com/julianogamerbahia-prog/aot_trab2/blob/juliano_becker/docs/images/unnamed.png)
